@@ -1,6 +1,6 @@
 # Python-Numpy
 
-This repo contains source code for Nummpy Library.
+This repo contains source code for Numpy Library.
 
 Fistly Numpy arrays are explained and then code for Indexing Slicing Broadcasting of NumPy arrays are given.
 
